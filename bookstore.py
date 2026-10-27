@@ -13,7 +13,7 @@ def get_title(self):
         return self.title
 
     # Task 2: add a method get_price() that returns the price
-
+bala
 
     # Task 3 (teams of three only): add a method get_author() that returns the author
 
