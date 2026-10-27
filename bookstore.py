@@ -13,7 +13,7 @@ class Book(object):
     # Task 2: add a method get_price() that returns the price
     def get_price()
         """Ruturn the price of the book."""
-        return self.price
+        return self.price 
 
     # Task 3 (teams of three only): add a method get_author() that returns the author
 
